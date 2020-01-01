@@ -1,0 +1,29 @@
+apiVersion: v1
+entries:
+  wordpress:
+  - apiVersion: v1
+    appVersion: 5.3.2
+    created: 2020-01-01T15:16:04.710385075Z
+    description: This is th chart that I put there. Heersh.
+    digest: 8abc198d6c14632059e6e98241e2ecfb78e1f88916f1afc449fdd36ad556e1f4
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - wordpress-8.1.0.tgz
+    version: 8.1.0
+generated: 2020-01-01T15:16:04.705593032Z
